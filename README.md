@@ -1,5 +1,9 @@
 # k8s resources
 
+## Installation
+
+https://kubernetes.io/docs/getting-started-guides/scratch/
+
 ## Networking
 
 https://kubernetes.io/docs/concepts/cluster-administration/networking/
