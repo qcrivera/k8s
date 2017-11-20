@@ -1,5 +1,9 @@
 # k8s resources
 
+## Concepts
+
+https://kubernetes.io/docs/concepts/
+
 ## Installation
 
 Kelysey's Kubernetes the hard way
